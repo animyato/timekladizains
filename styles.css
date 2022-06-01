@@ -1,5 +1,13 @@
+@font-face {
+    font-family: "TiroGurmukhi";
+    src: url("TiroGurmukhi-Regular.ttf");
+}
 
 .footerNav {
     width: auto !important;
     text-align: right;
+}
+
+p{
+    font-family: "TiroGurmukhi";
 }
